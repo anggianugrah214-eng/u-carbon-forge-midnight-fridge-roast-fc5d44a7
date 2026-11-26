@@ -1,0 +1,3 @@
+Write a one-line roast of the midnight fridge for the make.fun bounty "Midnight Fridge Roast" (u-carbon-forge-midnight-fridge-roast-fc5d44a7).
+
+Brief: produce a single tight one-liner, delivered by a small Node/TypeScript program (main.ts) that writes the entry line to /output/entry.txt. The joke must target a smart fridge that refuses to open after midnight: the laugh should come from the fridge's petty midnight rule itself, include a surprise twist in the final words, stay concise, and read naturally spoken aloud. Explore several draft candidates, revise for the strongest twist and clearest statement of the midnight refusal, and keep only one joke in the final line — no second joke crowding it, and no personal details.
